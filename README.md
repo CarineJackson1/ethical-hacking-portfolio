@@ -1,36 +1,41 @@
-# 🐍 Python & Ethical Hacking Projects
+# Full Ethical Hacking Portfolio
 
-This repository contains tools and scripts built while completing the **"Learn Python & Ethical Hacking From Scratch"** course by Zaid Sabih on Udemy.
+Welcome to my **Ethical Hacking Portfolio**, showcasing practical bug bounty reconnaissance and custom Python security tools I've developed and used.
 
-## 🎯 What I Learned
-- Python scripting for penetration testing
-- Network automation and scanning
-- Custom backdoors, keyloggers, and brute-force scripts
-- Packet sniffing and crafting with Scapy
-- Ethical hacking principles and attacker mindset
+---
 
-## 🛠 Tools & Libraries
-- Python 3
-- `socket`, `subprocess`, `os`, `threading`, `time`
-- [Scapy](https://scapy.readthedocs.io/)
-- Kali Linux
+## 📁 Project Structure
 
-## 📂 Projects Included
+### 1. Bug Bounty Recon & Reporting  
+Explore how I perform reconnaissance, safe vulnerability testing, and write professional bug reports for legal bug bounty programs.  
+Location: [`01-bug-bounty-recon/`](./01-bug-bounty-recon)
 
-| Project | Description |
-|--------|-------------|
-| `port_scanner.py` | Custom TCP port scanner with IP input and threading |
-| `network_sniffer.py` | Sniff packets and display headers for analysis |
-| `brute_force_ssh.py` | Automates SSH brute-force attack (for legal use only) |
-| `keylogger.py` | Captures keystrokes and logs them to a file |
-| `backdoor_client.py` / `backdoor_server.py` | Simulates remote access Trojan behavior for education |
-| `arp_spoofer.py` | Man-in-the-middle ARP spoofing tool (lab safe) |
+### 2. Python Security Tools  
+A collection of Python scripts that automate penetration testing tasks like port scanning, sniffing, brute forcing, and more — built from scratch for learning and lab use.  
+Location: [`02-python-security-tools/`](./02-python-security-tools)
 
-## 🧠 Educational Use Only
-All tools and scripts are for **ethical and educational purposes only**. Run them in isolated labs or VMs you control.
+---
 
-## 👩‍💻 Author
-Carine Jackson – [LinkedIn](https://www.linkedin.com/in/carinejackson) | [GitHub](https://github.com/CarineJackson1)
+## 🚀 Getting Started
 
-## 📜 License
-MIT
+- Start with the bug bounty recon folder if you're interested in real-world bug bounty methodology.  
+- Dive into the Python tools folder to see custom script implementations.  
+
+---
+
+## 📚 Additional Resources
+
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity)  
+- [Bugcrowd Public Programs](https://bugcrowd.com/programs)  
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)  
+- [Zaid Sabih's Ethical Hacking Course](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/)
+
+---
+
+## ⚠️ Disclaimer  
+All tools and tests are for ethical, legal, and educational use only. Always have explicit permission before testing any system.
+
+---
+
+## 📜 License  
+MIT License
