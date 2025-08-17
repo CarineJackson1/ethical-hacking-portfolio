@@ -64,14 +64,14 @@ Obsidian / Notion	Note-taking & documentation
 🖥️ Setup Instructions
 
 Install Recon Tools
-
+```bash
 sudo apt update
 sudo apt install -y nmap nikto golang-go
 go install github.com/owasp-amass/amass/v3/...@latest
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/tomnomnom/waybackurls@latest
 export PATH=$PATH:$(go env GOPATH)/bin
-
+```
 
 ⸻
 
