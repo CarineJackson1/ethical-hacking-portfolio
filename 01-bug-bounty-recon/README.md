@@ -102,8 +102,3 @@ Results will be saved in the results/ directory, including subdomains, live host
 	•	Open SSH Weak Configuration Report
 
 ---
-
-⚡ With these fixes, your README will:  
-- Render diagrams properly (Mermaid support).  
-- Show a nice tree layout for structure.  
-- Display sample reports as clickable links instead of code text.  
