@@ -16,13 +16,6 @@ Location: [`02-python-security-tools/`](./02-python-security-tools)
 
 ---
 
-## 🚀 Getting Started
-
-- Start with the bug bounty recon folder if you're interested in real-world bug bounty methodology.  
-- Dive into the Python tools folder to see custom script implementations.  
-
----
-
 ## 📚 Additional Resources
 
 - [HackerOne Hacktivity](https://hackerone.com/hacktivity)  
