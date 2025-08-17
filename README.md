@@ -12,7 +12,7 @@ Location: [`01-bug-bounty-recon/`](./01-bug-bounty-recon)
 
 ### 2. Python Security Tools  
 A collection of Python scripts that automate penetration testing tasks like port scanning, sniffing, brute forcing, and more — built from scratch for learning and lab use.  
-Location: [`https://github.com/CarineJackson1/ethical-hacking-portfolio/tree/main/python-security-tools`] (./02-python-security-tools)
+Location: ['02-python-security-tools/'](https://github.com/CarineJackson1/ethical-hacking-portfolio/tree/main/python-security-tools)
 
 ---
 
